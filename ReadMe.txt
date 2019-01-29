@@ -1,0 +1,1 @@
+Open Rhinoceros,then type "EditPythonScript" (without quotation marks). After that, open the script you need to run, then click on top of the play button.
