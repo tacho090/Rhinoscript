@@ -1,3 +1,8 @@
+############################################
+#Create two curves before running this script#
+############################################
+
+
 #imports rhinoscriptsyntax to Python Editor
 import rhinoscriptsyntax as rs
 
